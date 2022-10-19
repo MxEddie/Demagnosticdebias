@@ -6,7 +6,7 @@ OUTPUT_DIR=/output_dir/
 rm -r $OUTPUT_DIR
 mkdir -p $OUTPUT_DIR
 
-python3 -u ../src/2preprocess.py --input /input_data \
+python3 -u ../src/preprocess.py --input /input_data \
                         --stereotypes ../data/warm_stereotypes.txt,../data/comp_stereotypes.txt \
                         --attributes ../data/EA_CD.txt,../data/AA_MF_CD.txt \
                         --output $OUTPUT_DIR \
