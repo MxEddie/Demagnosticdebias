@@ -8,4 +8,3 @@ The first folder CEAT contains code modified from the repository https://github.
 
 The second folder context_debias contains mode modified from the repository https://github.com/kanekomasahiro/context-debias. We made several changes to enable to model to be debiased along two dimensions. We also updated the files containing the attributes and target lists. 
 
-The original READMEs are included in each folder. 
